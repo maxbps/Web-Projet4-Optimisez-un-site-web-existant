@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: black;
+    background-color: rgba(247, 112, 50, 0.747);
 }
 
 .tc-white {
@@ -1042,5 +1042,5 @@ h4 {
 }
 
 .p-font-size {
-    font-size: 13px;
+    font-size: 14px;
 }
